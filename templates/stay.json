@@ -9,12 +9,269 @@
       "updated": "2025-09-10T14:20:00"
     }
   ],
+
+
   "rooms": [
-    {
+     {
       "id": 1,
-      "name": "Dobbeltrom med sjøutsikt",
+      "name": "DET GULE HUS",
+      "location": "HOLMSBU, ASKER",
       "pricePrNight": 1200,
-      "description": "Romslig dobbeltrom med utsikt mot havet",
+      "rating": 4.5,
+      "imageSlug": "det-gule-hus",
+      "description": "Stort og fint rom",
+      "features": [
+        "dobbeltseng",
+        "eget bad",
+        "frokost inkludert"
+      ],
+      "maxGuests": 2,
+      "reviews": [
+        {
+          "id": 1,
+          "userId": 1,
+          "rating": 5,
+          "comment": "Veldig hyggelig opphold og god frokost!",
+          "created": "2026-01-15T10:00:00",
+          "updated": "2026-01-15T10:00:00"
+        }
+      ],
+      "created": "2025-09-02T09:00:00",
+      "updated": "2025-09-12T16:45:00"
+    },
+    
+    {
+      "id": 2,
+      "name": "HAVLY B&B",
+      "location": "KILSVIK, ARENDAL",
+      "pricePrNight": 2400,
+      "rating": 4.8,
+      "imageSlug": "havly",
+      "description": "Luksuriøst rom med utsikt mot havet",
+      "features": [
+        "dobbeltseng",
+        "eget bad",
+        "frokost inkludert"
+      ],
+      "maxGuests": 2,
+      "reviews": [
+        {
+          "id": 1,
+          "userId": 1,
+          "rating": 5,
+          "comment": "Veldig hyggelig opphold og god frokost!",
+          "created": "2026-01-15T10:00:00",
+          "updated": "2026-01-15T10:00:00"
+        }
+      ],
+      "created": "2025-09-02T09:00:00",
+      "updated": "2025-09-12T16:45:00"
+    },
+
+    {
+      "id": 3,
+      "name": "NORDLYSBRYGGA",
+      "location": "NORDVIK, LOFOTEN",
+      "pricePrNight": 1000,
+      "rating": 4.2,
+      "imageSlug": "nordlysbrygga",
+      "description": "Koje med utsikt mot fjorden",
+      "features": [
+        "dobbeltseng",
+        "eget bad",
+        "frokost inkludert"
+      ],
+      "maxGuests": 2,
+      "reviews": [
+        {
+          "id": 1,
+          "userId": 1,
+          "rating": 5,
+          "comment": "Veldig hyggelig opphold og god frokost!",
+          "created": "2026-01-15T10:00:00",
+          "updated": "2026-01-15T10:00:00"
+        }
+      ],
+      "created": "2025-09-02T09:00:00",
+      "updated": "2025-09-12T16:45:00"
+    },
+
+    {
+      "id": 4,
+      "name": "SKJUTTAVIKA B&B",
+      "location": "SKJUTTAVIKA, BERGEN",
+      "pricePrNight": 800,
+      "rating": 4.1,
+      "imageSlug": "skjuttavika",
+      "description": "Koselig rom midt i byen",
+      "features": [
+        "dobbeltseng",
+        "eget bad",
+        "frokost inkludert"
+      ],
+      "maxGuests": 2,
+      "reviews": [
+        {
+          "id": 1,
+          "userId": 1,
+          "rating": 5,
+          "comment": "Veldig hyggelig opphold og god frokost!",
+          "created": "2026-01-15T10:00:00",
+          "updated": "2026-01-15T10:00:00"
+        }
+      ],
+      "created": "2025-09-02T09:00:00",
+      "updated": "2025-09-12T16:45:00"
+    },
+
+    {
+      "id": 5,
+      "name": "HØYFJELL INN",
+      "location": "HØYFJELL, TELEMARK",
+      "pricePrNight": 1000,
+      "rating": 4.0,
+      "imageSlug": "hoyfjell",
+      "description": "Romslig rom",
+      "features": [
+        "dobbeltseng",
+        "eget bad",
+        "frokost inkludert"
+      ],
+      "maxGuests": 2,
+      "reviews": [
+        {
+          "id": 1,
+          "userId": 1,
+          "rating": 5,
+          "comment": "Veldig hyggelig opphold og god frokost!",
+          "created": "2026-01-15T10:00:00",
+          "updated": "2026-01-15T10:00:00"
+        }
+      ],
+      "created": "2025-09-02T09:00:00",
+      "updated": "2025-09-12T16:45:00"
+    },
+
+    {
+      "id": 6,
+      "name": "FJORDENGEN B&B",
+      "location": "ÅNDALSNES, RAUMA",
+      "pricePrNight": 900,
+      "rating": 4.2,
+      "imageSlug": "fjordengen",
+      "description": "Koselig rom med utsikt mot fjorden",
+      "features": [
+        "dobbeltseng",
+        "eget bad",
+        "frokost inkludert"
+      ],
+      "maxGuests": 2,
+      "reviews": [
+        {
+          "id": 1,
+          "userId": 1,
+          "rating": 5,
+          "comment": "Veldig hyggelig opphold og god frokost!",
+          "created": "2026-01-15T10:00:00",
+          "updated": "2026-01-15T10:00:00"
+        }
+      ],
+      "created": "2025-09-02T09:00:00",
+      "updated": "2025-09-12T16:45:00"
+    },
+
+    {
+      "id": 7,
+      "name": "NESDALEN",
+      "location": "NESDALEN, HEMSEDAL",
+      "pricePrNight": 1200,
+      "rating": 4.5,
+      "imageSlug": "nesdalen",
+      "description": "Romslig rom i fjellstrakte omgivelser",
+      "features": [
+        "dobbeltseng",
+        "eget bad",
+        "frokost inkludert"
+      ],
+      "maxGuests": 2,
+      "reviews": [
+        {
+          "id": 1,
+          "userId": 1,
+          "rating": 5,
+          "comment": "Veldig hyggelig opphold og god frokost!",
+          "created": "2026-01-15T10:00:00",
+          "updated": "2026-01-15T10:00:00"
+        }
+      ],
+      "created": "2025-09-02T09:00:00",
+      "updated": "2025-09-12T16:45:00"
+    },
+
+    {
+      "id": 8,
+      "name": "GAMLEBYEN B&B",
+      "location": "GAMLEBYEN, TRONDHEIM",
+      "pricePrNight": 1000,
+      "rating": 4.3,
+      "imageSlug": "gamlebyen",
+      "description": "Koselig rom midt i byen",
+      "features": [
+        "dobbeltseng",
+        "eget bad",
+        "frokost inkludert"
+      ],
+      "maxGuests": 2,
+      "reviews": [
+        {
+          "id": 1,
+          "userId": 1,
+          "rating": 5,
+          "comment": "Veldig hyggelig opphold og god frokost!",
+          "created": "2026-01-15T10:00:00",
+          "updated": "2026-01-15T10:00:00"
+        }
+      ],
+      "created": "2025-09-02T09:00:00",
+      "updated": "2025-09-12T16:45:00"
+    },
+
+    {
+      "id": 9,
+      "name": "SOLHAUG B&B",
+      "location": "GJERDRUM, ROMERIKE",
+      "pricePrNight": 600,
+      "rating": 4.0,
+      "imageSlug": "solhaug",
+      "description": "Stort rom i landlige omgivelser",
+      "features": [
+        "dobbeltseng",
+        "eget bad",
+        "frokost inkludert"
+      ],
+      "maxGuests": 2,
+      "reviews": [
+        {
+          "id": 1,
+          "userId": 1,
+          "rating": 5,
+          "comment": "Veldig hyggelig opphold og god frokost!",
+          "created": "2026-01-15T10:00:00",
+          "updated": "2026-01-15T10:00:00"
+        }
+      ],
+      "created": "2025-09-02T09:00:00",
+      "updated": "2025-09-12T16:45:00"
+    },
+
+    {
+      "id": 10,
+      "name": "RØNSHEIM GÅRDSTUN",
+      "location": "RØNSHEIM, GUDBRANDSDALEN",
+      "pricePrNight": 800,
+      "rating": 4.2,
+      "imageSlug": "ronsheim",
+      "description": "Lite rom i fjellet",
       "features": [
         "dobbeltseng",
         "eget bad",
@@ -35,6 +292,8 @@
       "updated": "2025-09-12T16:45:00"
     }
   ],
+
+
   "bookings": [
     {
       "id": 101,
@@ -48,4 +307,6 @@
       "updated": "2025-12-30T12:15:00"
     }
   ]
+
+  
 }
