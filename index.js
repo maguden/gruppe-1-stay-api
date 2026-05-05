@@ -31,13 +31,13 @@ if (!fs.existsSync(`./templates/${process.env.TEMPLATE}`)) {
 }
 
 /* Dersom databasefilen ikke eksisterer, kopier templaten til db.json */
-if (!fs.existsSync("./stay.json")) {
+if (!fs.existsSync("./db.json")) {
   console.log(`Databasefilen finnes ikke — kopierer fra angitt template.\n\n`);
-  fs.copyFileSync(`./templates/${process.env.TEMPLATE}`, "./stay.json");
+  fs.copyFileSync(`./templates/${process.env.TEMPLATE}`, "./db.json");
 }
 
 const server = jsonServer.create();
-const router = jsonServer.router("stay.json");
+const router = jsonServer.router("db.json");
 const middlewares = jsonServer.defaults();
 
 server.use(middlewares);
