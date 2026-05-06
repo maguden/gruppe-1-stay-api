@@ -85,7 +85,6 @@
       "name": "SKJUTTAVIKA B&B",
       "location": "SKJUTTAVIKA, BERGEN",
       "pricePrNight": 800,
-      "serviceFee": 1.0,
       "rating": 4.1,
       "imageSlug": "skjuttavika",
       "description": "Koselig rom midt i byen",
@@ -251,7 +250,7 @@
       "fromDate": "2026-01-10",
       "toDate": "2026-01-12",
       "status": "pending",
-      "message": "",
+      "message": "Ønsker rolig rom med tidlig innsjekk",
       "created": "2025-12-30T12:15:00",
       "updated": "2025-12-30T12:15:00"
     }
