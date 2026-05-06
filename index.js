@@ -31,7 +31,7 @@ if (!fs.existsSync("./db.json")) {
 } 
 
 const server = jsonServer.create();
-const router = jsonServer.router("db.json");
+const router = jsonServer.router(`templates/${process.env.TEMPLATE}`);
 const middlewares = jsonServer.defaults();
 
 server.use(middlewares);
