@@ -43,7 +43,7 @@
       "name": "HAVLY B&B",
       "location": "KILSVIK, ARENDAL",
       "pricePrNight": 2400,
-      "rating": 4.8,
+      "rating": 5.0,
       "imageSlug": "havly",
       "description": "Luksuriøst rom med utsikt mot havet",
       "features": [
@@ -70,7 +70,7 @@
       "name": "NORDLYSBRYGGA",
       "location": "NORDVIK, LOFOTEN",
       "pricePrNight": 1000,
-      "rating": 4.2,
+      "rating": 4.5,
       "imageSlug": "nordlysbrygga",
       "description": "Koje med utsikt mot fjorden",
       "features": ["dobbeltseng", "eget bad", "frokost inkludert"],
@@ -143,7 +143,7 @@
       "name": "FJORDENGEN B&B",
       "location": "ÅNDALSNES, RAUMA",
       "pricePrNight": 900,
-      "rating": 4.2,
+      "rating": 4.3,
       "imageSlug": "fjordengen",
       "description": "Koselig rom med utsikt mot fjorden",
       "features": ["dobbeltseng", "eget bad", "frokost inkludert"],
@@ -193,7 +193,7 @@
       "name": "GAMLEBYEN B&B",
       "location": "GAMLEBYEN, TRONDHEIM",
       "pricePrNight": 1000,
-      "rating": 4.3,
+      "rating": 4.2,
       "imageSlug": "gamlebyen",
       "description": "Koselig rom midt i byen",
       "features": [
@@ -220,7 +220,7 @@
       "name": "SOLHAUG B&B",
       "location": "GJERDRUM, ROMERIKE",
       "pricePrNight": 600,
-      "rating": 4.0,
+      "rating": 3.5,
       "imageSlug": "solhaug",
       "description": "Stort rom i landlige omgivelser",
       "features": [
@@ -247,7 +247,7 @@
       "name": "RØNSHEIM GÅRDSTUN",
       "location": "RØNSHEIM, GUDBRANDSDALEN",
       "pricePrNight": 800,
-      "rating": 4.2,
+      "rating": 3.8,
       "imageSlug": "ronsheim",
       "description": "Lite rom i fjellet",
       "features": [
