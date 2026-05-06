@@ -9,8 +9,9 @@
       "updated": "2025-09-10T14:20:00"
     }
   ],
+
   "rooms": [
-     {
+    {
       "id": 1,
       "name": "DET GULE HUS",
       "location": "HOLMSBU, ASKER",
@@ -72,11 +73,7 @@
       "rating": 4.2,
       "imageSlug": "nordlysbrygga",
       "description": "Koje med utsikt mot fjorden",
-      "features": [
-        "dobbeltseng",
-        "eget bad",
-        "frokost inkludert"
-      ],
+      "features": ["dobbeltseng", "eget bad", "frokost inkludert"],
       "maxGuests": 2,
       "reviews": [
         {
@@ -99,11 +96,7 @@
       "rating": 4.1,
       "imageSlug": "skjuttavika",
       "description": "Koselig rom midt i byen",
-      "features": [
-        "dobbeltseng",
-        "eget bad",
-        "frokost inkludert"
-      ],
+      "features": ["dobbeltseng", "eget bad", "frokost inkludert"],
       "maxGuests": 2,
       "reviews": [
         {
@@ -153,11 +146,7 @@
       "rating": 4.2,
       "imageSlug": "fjordengen",
       "description": "Koselig rom med utsikt mot fjorden",
-      "features": [
-        "dobbeltseng",
-        "eget bad",
-        "frokost inkludert"
-      ],
+      "features": ["dobbeltseng", "eget bad", "frokost inkludert"],
       "maxGuests": 2,
       "reviews": [
         {
@@ -293,5 +282,5 @@
       "created": "2025-12-30T12:15:00",
       "updated": "2025-12-30T12:15:00"
     }
-  ]  
+  ]
 }
