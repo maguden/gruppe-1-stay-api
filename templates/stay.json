@@ -19,11 +19,7 @@
       "serviceFee": 250,
       "imageSlug": "det-gule-hus",
       "description": "Stort og fint rom",
-      "features": [
-        "dobbeltseng",
-        "eget bad",
-        "frokost inkludert"
-      ],
+      "features": ["dobbeltseng", "eget bad", "frokost inkludert"],
       "maxGuests": 2,
       "reviews": [
         {
@@ -47,11 +43,7 @@
       "serviceFee": 250,
       "imageSlug": "havly",
       "description": "Luksuriøst rom med utsikt mot havet",
-      "features": [
-        "dobbeltseng",
-        "eget bad",
-        "frokost inkludert"
-      ],
+      "features": ["dobbeltseng", "eget bad", "frokost inkludert"],
       "maxGuests": 2,
       "reviews": [
         {
@@ -75,11 +67,7 @@
       "serviceFee": 250,
       "imageSlug": "nordlysbrygga",
       "description": "Koje med utsikt mot fjorden",
-      "features": [
-        "dobbeltseng",
-        "eget bad",
-        "frokost inkludert"
-      ],
+      "features": ["dobbeltseng", "eget bad", "frokost inkludert"],
       "maxGuests": 2,
       "reviews": [
         {
@@ -103,11 +91,7 @@
       "serviceFee": 250,
       "imageSlug": "skjuttavika",
       "description": "Koselig rom midt i byen",
-      "features": [
-        "dobbeltseng",
-        "eget bad",
-        "frokost inkludert"
-      ],
+      "features": ["dobbeltseng", "eget bad", "frokost inkludert"],
       "maxGuests": 2,
       "reviews": [
         {
@@ -131,11 +115,7 @@
       "rating": 4,
       "imageSlug": "hoyfjell",
       "description": "Romslig rom",
-      "features": [
-        "dobbeltseng",
-        "eget bad",
-        "frokost inkludert"
-      ],
+      "features": ["dobbeltseng", "eget bad", "frokost inkludert"],
       "maxGuests": 2,
       "reviews": [
         {
@@ -159,11 +139,7 @@
       "rating": 4.2,
       "imageSlug": "fjordengen",
       "description": "Koselig rom med utsikt mot fjorden",
-      "features": [
-        "dobbeltseng",
-        "eget bad",
-        "frokost inkludert"
-      ],
+      "features": ["dobbeltseng", "eget bad", "frokost inkludert"],
       "maxGuests": 2,
       "reviews": [
         {
@@ -187,11 +163,7 @@
       "serviceFee": 250,
       "imageSlug": "nesdalen",
       "description": "Romslig rom i fjellstrakte omgivelser",
-      "features": [
-        "dobbeltseng",
-        "eget bad",
-        "frokost inkludert"
-      ],
+      "features": ["dobbeltseng", "eget bad", "frokost inkludert"],
       "maxGuests": 2,
       "reviews": [
         {
@@ -215,11 +187,7 @@
       "rating": 4.3,
       "imageSlug": "gamlebyen",
       "description": "Koselig rom midt i byen",
-      "features": [
-        "dobbeltseng",
-        "eget bad",
-        "frokost inkludert"
-      ],
+      "features": ["dobbeltseng", "eget bad", "frokost inkludert"],
       "maxGuests": 2,
       "reviews": [
         {
@@ -243,11 +211,7 @@
       "serviceFee": 250,
       "imageSlug": "solhaug",
       "description": "Stort rom i landlige omgivelser",
-      "features": [
-        "dobbeltseng",
-        "eget bad",
-        "frokost inkludert"
-      ],
+      "features": ["dobbeltseng", "eget bad", "frokost inkludert"],
       "maxGuests": 2,
       "reviews": [
         {
@@ -271,11 +235,7 @@
       "serviceFee": 250,
       "imageSlug": "ronsheim",
       "description": "Lite rom i fjellet",
-      "features": [
-        "dobbeltseng",
-        "eget bad",
-        "frokost inkludert"
-      ],
+      "features": ["dobbeltseng", "eget bad", "frokost inkludert"],
       "maxGuests": 2,
       "reviews": [
         {
@@ -302,23 +262,6 @@
       "message": "Ønsker rolig rom med tidlig innsjekk",
       "created": "2025-12-30T12:15:00",
       "updated": "2025-12-30T12:15:00"
-    },
-    {
-      "userId": 1,
-      "userName": "Ola Nordmann",
-      "email": "ola@example.com",
-      "checkIn": "2026-01-10",
-      "checkOut": "2026-01-12",
-      "roomtype": "Single Beds",
-      "roomId": 4,
-      "maxGuests": 2,
-      "pricePrNight": 800,
-      "serviceFee": 250,
-      "totalSum": "",
-      "status": "sent/pending",
-      "created": "2026-05-10T18:13:29.122Z",
-      "updated": "2026-05-10T18:13:29.122Z",
-      "id": 102
     }
   ]
 }
