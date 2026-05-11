@@ -215,6 +215,7 @@
       "name": "SOLHAUG B&B",
       "location": "GJERDRUM, ROMERIKE",
       "pricePrNight": 600,
+      "serviceFee": 250,
       "rating": 3.5,
       "imageSlug": "solhaug",
       "description": "Stort rom i landlige omgivelser",
