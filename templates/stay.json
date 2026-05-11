@@ -16,6 +16,7 @@
       "location": "HOLMSBU, ASKER",
       "pricePrNight": 1200,
       "rating": 4.5,
+      "serviceFee": 250,
       "imageSlug": "det-gule-hus",
       "description": "Stort og fint rom",
       "features": [
@@ -70,6 +71,7 @@
       "location": "NORDVIK, LOFOTEN",
       "pricePrNight": 1000,
       "rating": 4.2,
+      "serviceFee": 250,
       "imageSlug": "nordlysbrygga",
       "description": "Koje med utsikt mot fjorden",
       "features": [
@@ -150,6 +152,7 @@
       "name": "FJORDENGEN B&B",
       "location": "ÅNDALSNES, RAUMA",
       "pricePrNight": 900,
+      "serviceFee": 250,
       "rating": 4.2,
       "imageSlug": "fjordengen",
       "description": "Koselig rom med utsikt mot fjorden",
@@ -178,6 +181,7 @@
       "location": "NESDALEN, HEMSEDAL",
       "pricePrNight": 1200,
       "rating": 4.5,
+      "serviceFee": 250,
       "imageSlug": "nesdalen",
       "description": "Romslig rom i fjellstrakte omgivelser",
       "features": [
@@ -204,6 +208,7 @@
       "name": "GAMLEBYEN B&B",
       "location": "GAMLEBYEN, TRONDHEIM",
       "pricePrNight": 1000,
+      "serviceFee": 250,
       "rating": 4.3,
       "imageSlug": "gamlebyen",
       "description": "Koselig rom midt i byen",
