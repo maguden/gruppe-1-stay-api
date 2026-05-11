@@ -7,6 +7,14 @@
       "email": "ola@example.com",
       "created": "2025-09-01T10:30:00",
       "updated": "2025-09-10T14:20:00"
+    },
+    {
+      "id": 2,
+      "userName": "admin",
+      "password": "admin2026",
+      "email": "admin@gokstad.no",
+      "created": "2026-05-11T10:00:00",
+      "updated": "2026-05-11T10:00:00"
     }
   ],
   "rooms": [
@@ -18,7 +26,7 @@
       "rating": 4.5,
       "serviceFee": 250,
       "imageSlug": "det-gule-hus",
-      "description": "Stort og fint rom",
+      "description": "Det gule hus & Breakfast er et sjarmerende og innbydende overnattingssted omgitt av landlige omgivelser og åpent kulturlandskap. Her tilbys lune rom med klassisk innredning, varme fargetoner og en avslappende atmosfære som gir følelsen av å være hjemme.\n\nDen tradisjonelle bygningen har et rustikt og elegant uttrykk, med detaljer som gjenspeiler stedets historie og rolige tempo. Beliggenheten gir rom for stillhet, natur og korte turer i nærområdet.\n\nFrokosten serveres i hyggelige omgivelser og byr på nøye utvalgte råvarer. Det gule hus & Breakfast passer perfekt for deg som ønsker et rolig opphold på landet, med personlig preg og behagelig komfort.",
       "features": [
         "dobbeltseng",
         "eget bad",
@@ -45,7 +53,7 @@
       "pricePrNight": 2400,
       "rating": 5,
       "imageSlug": "havly",
-      "description": "Luksuriøst rom med utsikt mot havet",
+      "description": "Havly Bed & Breakfast er et elegant og fredelig overnattingssted som kombinerer kystnær beliggenhet med frodige omgivelser og klassisk sjarm. Her bor du i lyse og romslige rom med utsikt mot grønne hager og nærhet til havet, innredet med komfortable senger og nøye utvalgte detaljer.\n\nBygningen har et tidløst preg med historiske elementer som gir stedet karakter og varme. Bed & Breakfastet ligger idyllisk til ved kysten, hvor sjøluft, rolige omgivelser og vakre turmuligheter skaper en avslappende ramme rundt oppholdet.\n\nFellesområdene inviterer til stille morgener i hagen, og frokosten serveres med fokus på kvalitet og gode råvarer. Havly Bed & Breakfast er et ideelt valg for deg som ønsker ro, komfort og nærheten til havet.",
       "features": [
         "dobbeltseng",
         "eget bad",
@@ -73,7 +81,7 @@
       "rating": 4.2,
       "serviceFee": 250,
       "imageSlug": "nordlysbrygga",
-      "description": "Koje med utsikt mot fjorden",
+      "description": "Nordlysbrygga Bed & Breakfast er et stemningsfullt og autentisk overnattingssted omgitt av hav, fjell og det karakteristiske kystlandskapet i nord. Her bor du tett på sjøen, i lyse og komfortable rom med utsikt mot åpent hav, spisse fjell og skiftende lys som setter stemningen året rundt.\n\nInteriøret kombinerer nordisk enkelhet med varme detaljer, inspirert av naturen utenfor. Bed & Breakfastet ligger fredelig til i ekte lofotomgivelser, med kort vei til brygger, turstier, fiskeplasser og små kystsamfunn.\n\nFellesområdene gir rom for rolige morgener med havutsikt, og frokosten serveres med fokus på kvalitet og lokale råvarer. Enten du kommer for stillheten, naturen eller nordlyset, tilbyr Nordlysbrygga Bed & Breakfast et personlig og avslappende opphold – hvor tempoet senkes og kystlivet kan nytes fullt ut.",
       "features": [
         "dobbeltseng",
         "eget bad",
@@ -100,7 +108,7 @@
       "pricePrNight": 800,
       "rating": 3.9,
       "imageSlug": "skjuttavika",
-      "description": "Koselig rom midt i byen",
+      "description": "Skjuttavika Bed & Breakfast er et sjarmerende og innbydende overnattingssted som kombinerer rolig atmosfære med nærhet til by og natur. Her bor du i lyse, gjennomtenkte rom med varme materialer, komfortable senger og en lun stemning som gjør det enkelt å slappe av etter en lang dag. \n\nInteriøret bærer preg av enkel eleganse, med detaljer som gir en hjemmekoselig følelse uten å gå på bekostning av komfort.\n\nBed & Breakfastet ligger i et idyllisk område i Bergen, med kort vei til både kyst, sentrum og lokale severdigheter. \n\nFellesområdene gir rom for rolige morgener og hyggelige samtaler, og frokosten serveres med fokus på kvalitet og gode råvarer. Enten du reiser alene, som par eller med familie, tilbyr Skjuttavika Bed & Breakfast en personlig og avslappende opplevelse – et sted hvor tempoet senkes og oppholdet kan nytes fullt ut.",
       "features": [
         "dobbeltseng",
         "eget bad",
@@ -127,7 +135,7 @@
       "pricePrNight": 1000,
       "rating": 4,
       "imageSlug": "hoyfjell",
-      "description": "Romslig rom",
+      "description": "Høyfjell Bed & Breakfast er et stemningsfullt overnattingssted som byr på ekte fjellro og nærhet til storslått natur. Her bor du i lune rom med naturlige materialer, behagelige senger og store vinduer som slipper fjellandskapet helt inn.\n\nInteriøret er preget av rustikk eleganse og varme detaljer som skaper en avslappende og hjemmekoselig atmosfære. Bed & Breakfastet ligger høyt og fredelig til, med enkel tilgang til turstier, skiløyper og vakre utsiktspunkt.\n\nFellesarealene inviterer til rolige kvelder foran peisen, og frokosten serveres med fokus på lokale råvarer og god kvalitet. Enten du søker stillhet eller aktive dager i fjellet, gir Høyfjell Bed & Breakfast deg et opphold hvor naturen står i sentrum.",
       "features": [
         "dobbeltseng",
         "eget bad",
@@ -155,7 +163,7 @@
       "serviceFee": 250,
       "rating": 4.2,
       "imageSlug": "fjordengen",
-      "description": "Koselig rom med utsikt mot fjorden",
+      "description": "Fjordengen Bed & Breakfast er et stemningsfullt overnattingssted omgitt av grønt landskap og vakker utsikt mot stille vann og åser. Her bor du i koselige rom med gjennomtenkt innredning, myke tekstiler og en lun atmosfære som innbyr til avslapning.\n\nDen tradisjonelle røde bygningen gir stedet et autentisk og hjemmekoselig preg, perfekt tilpasset de rolige omgivelsene. Beliggenheten gir nærhet til natur, rolige spaserturer og fredelige kvelder i naturskjønne omgivelser.\n\nFellesområdene gir rom for ro og samvær, og frokosten serveres med fokus på kvalitet og gode smaker. Fjordengen Bed & Breakfast er et ideelt valg for deg som søker stillhet, natur og et behagelig opphold i vakre omgivelser.",
       "features": [
         "dobbeltseng",
         "eget bad",
@@ -183,7 +191,7 @@
       "rating": 4.5,
       "serviceFee": 250,
       "imageSlug": "nesdalen",
-      "description": "Romslig rom i fjellstrakte omgivelser",
+      "description": "Nesdalen Bed & Breakfast er et innbydende og stemningsfullt overnattingssted beliggende i vakre fjellomgivelser, med kort vei til alpinanlegg og helårige friluftsopplevelser. Her bor du i lyse og komfortable rom med varme materialer, gode senger og en avslappende atmosfære som gjør det enkelt å lande etter en aktiv dag ute.\n\nInteriøret kombinerer fjellinspirert enkelhet med moderne komfort, og skaper en lun og hjemmekoselig ramme rundt oppholdet. Beliggenheten gjør det enkelt å veksle mellom rolige morgener og fartsfylte timer i skibakken, samt turmuligheter i fjellet resten av året.\n\nFellesområdene inviterer til avslapning og hyggelige samtaler, og frokosten serveres med fokus på kvalitet og næringsrike råvarer – perfekt før en dag i bakken eller på tur. Enten du reiser med familie, venner eller som par, tilbyr Nesdalen Bed & Breakfast et personlig og komfortabelt fjellopphold hvor både aktivitet og ro får plass.",
       "features": [
         "dobbeltseng",
         "eget bad",
@@ -211,7 +219,7 @@
       "serviceFee": 250,
       "rating": 4.3,
       "imageSlug": "gamlebyen",
-      "description": "Koselig rom midt i byen",
+      "description": "Gamlebyen Bed & Breakfast er et sjarmerende bynært overnattingssted som kombinerer urban puls med rolige omgivelser. Her tilbys komfortable rom med stilrent interiør, behagelige senger og en avslappet atmosfære midt i byen.\n\nInnredningen balanserer moderne uttrykk med klassiske detaljer, og gir en lun og personlig følelse. Bed & Breakfastet ligger sentralt til, med gangavstand til kaféer, butikker, kulturtilbud og kollektivtransport.\n\nFellesområdene gir rom for både arbeid og avslapning, og frokosten serveres med fokus på kvalitet og gode smaker. Gamlebyen Bed & Breakfast er et ideelt valg for deg som vil oppleve byen, men samtidig ha et rolig sted å trekke deg tilbake til.",
       "features": [
         "dobbeltseng",
         "eget bad",
@@ -238,7 +246,7 @@
       "pricePrNight": 600,
       "rating": 3.5,
       "imageSlug": "solhaug",
-      "description": "Stort rom i landlige omgivelser",
+      "description": "Solhaug Gård Bed & Breakfast er et sjarmerende og innbydende overnattingssted omgitt av landlige omgivelser og åpent kulturlandskap. Her tilbys lune rom med klassisk innredning, varme fargetoner og en avslappende atmosfære som gir følelsen av å være hjemme.\n\nDen tradisjonelle bygningen har et rustikt og elegant uttrykk, med detaljer som gjenspeiler stedets historie og rolige tempo. Beliggenheten gir rom for stillhet, natur og korte turer i nærområdet.\n\nFrokosten serveres i hyggelige omgivelser og byr på nøye utvalgte råvarer. Solhaug Gård Bed & Breakfast passer perfekt for deg som ønsker et rolig opphold på landet, med personlig preg og behagelig komfort.",
       "features": [
         "dobbeltseng",
         "eget bad",
@@ -265,7 +273,7 @@
       "pricePrNight": 800,
       "rating": 3.8,
       "imageSlug": "ronsheim",
-      "description": "Lite rom i fjellet",
+      "description": "Rønsheim Gårdstun Bed & Breakfast er et sjarmerende og intimt overnattingssted bestående av et lite, tradisjonelt tømmergårdstun omgitt av rolige og naturskjønne omgivelser. Her bor du i lune rom med synlige tømmervegger, varme tekstiler og komfortable senger som skaper en ekte og hjemmekoselig atmosfære.\n\nTunet bærer preg av historie og solid håndverk, med detaljer som ivaretar det autentiske uttrykket samtidig som moderne komfort er godt ivaretatt. Beliggenheten gir nærhet til stille turstier, åpne jorder og frisk landluft – et sted hvor tempoet naturlig senkes.\n\nFellesområdene legger til rette for rolige morgener og hyggelige samtaler, og frokosten serveres med fokus på kvalitet og gode, tradisjonsrike råvarer. Enten du reiser alene, som par eller med familie, tilbyr Rønsheim Gårdstun Bed & Breakfast et personlig og avslappende opphold i ekte norsk gårdsidyll.",
       "features": [
         "dobbeltseng",
         "eget bad",
