@@ -324,9 +324,26 @@
       "serviceFee": 250,
       "totalSum": "",
       "status": "sent/pending",
-      "created": "2026-05-11T17:12:58.023Z",
-      "updated": "2026-05-11T17:12:58.023Z",
+      "created": "2026-05-11T18:09:11.335Z",
+      "updated": "2026-05-11T18:09:11.335Z",
       "id": 102
+    },
+    {
+      "userId": 1,
+      "userName": "Ola Nordmann",
+      "email": "ola@example.com",
+      "checkIn": "2026-01-10",
+      "checkOut": "2026-01-12",
+      "roomtype": "King Size Bed",
+      "roomId": 4,
+      "maxGuests": 2,
+      "pricePrNight": 800,
+      "serviceFee": 250,
+      "totalSum": "",
+      "status": "sent/pending",
+      "created": "2026-05-11T18:42:36.624Z",
+      "updated": "2026-05-11T18:42:36.624Z",
+      "id": 103
     }
   ]
 }
