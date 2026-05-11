@@ -54,6 +54,7 @@
       "name": "HAVLY B&B",
       "location": "KILSVIK, ARENDAL",
       "pricePrNight": 2400,
+      "serviceFee": 250,
       "rating": 5,
       "imageSlug": "havly",
       "description": "Havly Bed & Breakfast er et elegant og fredelig overnattingssted som kombinerer kystnær beliggenhet med frodige omgivelser og klassisk sjarm. Her bor du i lyse og romslige rom med utsikt mot grønne hager og nærhet til havet, innredet med komfortable senger og nøye utvalgte detaljer.\n\nBygningen har et tidløst preg med historiske elementer som gir stedet karakter og varme. Bed & Breakfastet ligger idyllisk til ved kysten, hvor sjøluft, rolige omgivelser og vakre turmuligheter skaper en avslappende ramme rundt oppholdet.\n\nFellesområdene inviterer til stille morgener i hagen, og frokosten serveres med fokus på kvalitet og gode råvarer. Havly Bed & Breakfast er et ideelt valg for deg som ønsker ro, komfort og nærheten til havet",
@@ -113,6 +114,7 @@
       "name": "SKJUTTAVIKA B&B",
       "location": "SKJUTTAVIKA, BERGEN",
       "pricePrNight": 800,
+      "serviceFee": 250,
       "rating": 3.9,
       "imageSlug": "skjuttavika",
       "description": "Skjuttavika Bed & Breakfast er et sjarmerende og innbydende overnattingssted som kombinerer rolig atmosfære med nærhet til by og natur. Her bor du i lyse, gjennomtenkte rom med varme materialer, komfortable senger og en lun stemning som gjør det enkelt å slappe av etter en lang dag. \n\nInteriøret bærer preg av enkel eleganse, med detaljer som gir en hjemmekoselig følelse uten å gå på bekostning av komfort.\n\nBed & Breakfastet ligger i et idyllisk område i Bergen, med kort vei til både kyst, sentrum og lokale severdigheter. \n\nFellesområdene gir rom for rolige morgener og hyggelige samtaler, og frokosten serveres med fokus på kvalitet og gode råvarer. Enten du reiser alene, som par eller med familie, tilbyr Skjuttavika Bed & Breakfast en personlig og avslappende opplevelse. Et sted hvor tempoet senkes og oppholdet kan nytes fullt ut.",
@@ -143,6 +145,7 @@
       "name": "HØYFJELL INN",
       "location": "HØYFJELL, TELEMARK",
       "pricePrNight": 1000,
+      "serviceFee": 250,
       "rating": 4,
       "imageSlug": "hoyfjell",
       "description": "Høyfjell Bed & Breakfast er et stemningsfullt overnattingssted som byr på ekte fjellro og nærhet til storslått natur. Her bor du i lune rom med naturlige materialer, behagelige senger og store vinduer som slipper fjellandskapet helt inn.\n\nInteriøret er preget av rustikk eleganse og varme detaljer som skaper en avslappende og hjemmekoselig atmosfære. Bed & Breakfastet ligger høyt og fredelig til, med enkel tilgang til turstier, skiløyper og vakre utsiktspunkt.\n\nFellesarealene inviterer til rolige kvelder foran peisen, og frokosten serveres med fokus på lokale råvarer og god kvalitet. Enten du søker stillhet eller aktive dager i fjellet, gir Høyfjell Bed & Breakfast deg et opphold hvor naturen står i sentrum.",
@@ -265,6 +268,7 @@
       "name": "SOLHAUG B&B",
       "location": "GJERDRUM, ROMERIKE",
       "pricePrNight": 600,
+      "serviceFee": 250,
       "rating": 3.5,
       "imageSlug": "solhaug",
       "description": "Solhaug Gård Bed & Breakfast er et sjarmerende og innbydende overnattingssted omgitt av landlige omgivelser og åpent kulturlandskap. Her tilbys lune rom med klassisk innredning, varme fargetoner og en avslappende atmosfære som gir følelsen av å være hjemme.\n\nDen tradisjonelle bygningen har et rustikt og elegant uttrykk, med detaljer som gjenspeiler stedets historie og rolige tempo. Beliggenheten gir rom for stillhet, natur og korte turer i nærområdet.\n\nFrokosten serveres i hyggelige omgivelser og byr på nøye utvalgte råvarer. Solhaug Gård Bed & Breakfast passer perfekt for deg som ønsker et rolig opphold på landet, med personlig preg og behagelig komfort.",
@@ -294,6 +298,7 @@
       "name": "RØNSHEIM GÅRDSTUN",
       "location": "RØNSHEIM, GUDBRANDSDALEN",
       "pricePrNight": 800,
+      "serviceFee": 250,
       "rating": 3.8,
       "imageSlug": "ronsheim",
       "description": "Rønsheim Gårdstun Bed & Breakfast er et sjarmerende og intimt overnattingssted bestående av et lite, tradisjonelt tømmergårdstun omgitt av rolige og naturskjønne omgivelser. Her bor du i lune rom med synlige tømmervegger, varme tekstiler og komfortable senger som skaper en ekte og hjemmekoselig atmosfære.\n\nTunet bærer preg av historie og solid håndverk, med detaljer som ivaretar det autentiske uttrykket samtidig som moderne komfort er godt ivaretatt. Beliggenheten gir nærhet til stille turstier, åpne jorder og frisk landluft – et sted hvor tempoet naturlig senkes.\n\nFellesområdene legger til rette for rolige morgener og hyggelige samtaler, og frokosten serveres med fokus på kvalitet og gode, tradisjonsrike råvarer. Enten du reiser alene, som par eller med familie, tilbyr Rønsheim Gårdstun Bed & Breakfast et personlig og avslappende opphold i ekte norsk gårdsidyll.",
@@ -328,6 +333,23 @@
       "message": "Ønsker rolig rom med tidlig innsjekk",
       "created": "2025-12-30T12:15:00",
       "updated": "2025-12-30T12:15:00"
+    },
+    {
+      "userId": 1,
+      "userName": "Ola Nordmann",
+      "email": "ola@example.com",
+      "checkIn": "2026-01-10",
+      "checkOut": "2026-01-12",
+      "roomtype": "King Size Bed",
+      "roomId": 4,
+      "maxGuests": 2,
+      "pricePrNight": 800,
+      "serviceFee": 250,
+      "totalSum": "",
+      "status": "sent/pending",
+      "created": "2026-05-11T17:12:58.023Z",
+      "updated": "2026-05-11T17:12:58.023Z",
+      "id": 102
     }
   ]
 }
