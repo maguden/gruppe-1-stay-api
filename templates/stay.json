@@ -36,11 +36,7 @@
       "rating": 5,
       "imageSlug": "havly",
       "description": "Luksuriøst rom med utsikt mot havet",
-      "features": [
-        "dobbeltseng",
-        "eget bad",
-        "frokost inkludert"
-      ],
+      "features": ["dobbeltseng", "eget bad", "frokost inkludert"],
       "maxGuests": 2,
       "reviews": [
         {
@@ -104,11 +100,7 @@
       "rating": 4,
       "imageSlug": "hoyfjell",
       "description": "Romslig rom",
-      "features": [
-        "dobbeltseng",
-        "eget bad",
-        "frokost inkludert"
-      ],
+      "features": ["dobbeltseng", "eget bad", "frokost inkludert"],
       "maxGuests": 2,
       "reviews": [
         {
@@ -132,11 +124,7 @@
       "rating": 4.2,
       "imageSlug": "fjordengen",
       "description": "Koselig rom med utsikt mot fjorden",
-      "features": [
-        "dobbeltseng",
-        "eget bad",
-        "frokost inkludert"
-      ],
+      "features": ["dobbeltseng", "eget bad", "frokost inkludert"],
       "maxGuests": 2,
       "reviews": [
         {
@@ -160,11 +148,7 @@
       "serviceFee": 250,
       "imageSlug": "nesdalen",
       "description": "Romslig rom i fjellstrakte omgivelser",
-      "features": [
-        "dobbeltseng",
-        "eget bad",
-        "frokost inkludert"
-      ],
+      "features": ["dobbeltseng", "eget bad", "frokost inkludert"],
       "maxGuests": 2,
       "reviews": [
         {
@@ -188,11 +172,7 @@
       "rating": 4.3,
       "imageSlug": "gamlebyen",
       "description": "Koselig rom midt i byen",
-      "features": [
-        "dobbeltseng",
-        "eget bad",
-        "frokost inkludert"
-      ],
+      "features": ["dobbeltseng", "eget bad", "frokost inkludert"],
       "maxGuests": 2,
       "reviews": [
         {
@@ -215,11 +195,7 @@
       "rating": 3.5,
       "imageSlug": "solhaug",
       "description": "Stort rom i landlige omgivelser",
-      "features": [
-        "dobbeltseng",
-        "eget bad",
-        "frokost inkludert"
-      ],
+      "features": ["dobbeltseng", "eget bad", "frokost inkludert"],
       "maxGuests": 2,
       "reviews": [
         {
@@ -242,11 +218,7 @@
       "rating": 3.8,
       "imageSlug": "ronsheim",
       "description": "Lite rom i fjellet",
-      "features": [
-        "dobbeltseng",
-        "eget bad",
-        "frokost inkludert"
-      ],
+      "features": ["dobbeltseng", "eget bad", "frokost inkludert"],
       "maxGuests": 2,
       "reviews": [
         {
@@ -325,5 +297,6 @@
       "updated": "2026-05-12T10:16:01.339Z",
       "id": 105
     }
-  ]
+  ],
+  "favorites": []
 }
