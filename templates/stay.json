@@ -89,7 +89,11 @@
       "serviceFee": 250,
       "imageSlug": "nordlysbrygga",
       "description": "Nordlysbrygga Bed & Breakfast er et stemningsfullt og autentisk overnattingssted omgitt av hav, fjell og det karakteristiske kystlandskapet i nord. Her bor du tett på sjøen, i lyse og komfortable rom med utsikt mot åpent hav, spisse fjell og skiftende lys som setter stemningen året rundt.\n\nInteriøret kombinerer nordisk enkelhet med varme detaljer, inspirert av naturen utenfor. Bed & Breakfastet ligger fredelig til i ekte lofotomgivelser, med kort vei til brygger, turstier, fiskeplasser og små kystsamfunn.\n\nFellesområdene gir rom for rolige morgener med havutsikt, og frokosten serveres med fokus på kvalitet og lokale råvarer. Enten du kommer for stillheten, naturen eller nordlyset, tilbyr Nordlysbrygga Bed & Breakfast et personlig og avslappende opphold hvor tempoet senkes og kystlivet kan nytes fullt ut.",
-      "features": ["BREAKFAST", "FREE WIFI", "PET FRIENDLY"],
+      "features": [
+        "BREAKFAST",
+        "FREE WIFI",
+        "PET FRIENDLY"
+      ],
       "maxGuests": 2,
       "reviews": [
         {
@@ -297,7 +301,11 @@
       "rating": 3.8,
       "imageSlug": "ronsheim",
       "description": "Rønsheim Gårdstun Bed & Breakfast er et sjarmerende og intimt overnattingssted bestående av et lite, tradisjonelt tømmergårdstun omgitt av rolige og naturskjønne omgivelser. Her bor du i lune rom med synlige tømmervegger, varme tekstiler og komfortable senger som skaper en ekte og hjemmekoselig atmosfære.\n\nTunet bærer preg av historie og solid håndverk, med detaljer som ivaretar det autentiske uttrykket samtidig som moderne komfort er godt ivaretatt. Beliggenheten gir nærhet til stille turstier, åpne jorder og frisk landluft – et sted hvor tempoet naturlig senkes.\n\nFellesområdene legger til rette for rolige morgener og hyggelige samtaler, og frokosten serveres med fokus på kvalitet og gode, tradisjonsrike råvarer. Enten du reiser alene, som par eller med familie, tilbyr Rønsheim Gårdstun Bed & Breakfast et personlig og avslappende opphold i ekte norsk gårdsidyll.",
-      "features": ["BREAKFAST", "PET FRIENDLY", "FREE WIFI"],
+      "features": [
+        "BREAKFAST",
+        "PET FRIENDLY",
+        "FREE WIFI"
+      ],
       "maxGuests": 2,
       "reviews": [
         {
@@ -377,5 +385,38 @@
       "id": 105
     }
   ],
-  "favorites": []
+  "favorites": [
+    {
+      "userId": 1,
+      "roomId": 2,
+      "notat": "",
+      "created": "2026-05-12T12:02:35.533Z",
+      "updated": "2026-05-12T12:02:35.533Z",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "roomId": 9,
+      "notat": "",
+      "created": "2026-05-12T12:19:57.471Z",
+      "updated": "2026-05-12T12:19:57.471Z",
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "roomId": 10,
+      "notat": "",
+      "created": "2026-05-12T12:21:04.014Z",
+      "updated": "2026-05-12T12:21:04.014Z",
+      "id": 3
+    },
+    {
+      "userId": 2,
+      "roomId": 7,
+      "notat": "",
+      "created": "2026-05-12T12:23:42.725Z",
+      "updated": "2026-05-12T12:23:42.725Z",
+      "id": 4
+    }
+  ]
 }
