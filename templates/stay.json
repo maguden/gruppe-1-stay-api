@@ -89,11 +89,7 @@
       "serviceFee": 250,
       "imageSlug": "nordlysbrygga",
       "description": "Nordlysbrygga Bed & Breakfast er et stemningsfullt og autentisk overnattingssted omgitt av hav, fjell og det karakteristiske kystlandskapet i nord. Her bor du tett på sjøen, i lyse og komfortable rom med utsikt mot åpent hav, spisse fjell og skiftende lys som setter stemningen året rundt.\n\nInteriøret kombinerer nordisk enkelhet med varme detaljer, inspirert av naturen utenfor. Bed & Breakfastet ligger fredelig til i ekte lofotomgivelser, med kort vei til brygger, turstier, fiskeplasser og små kystsamfunn.\n\nFellesområdene gir rom for rolige morgener med havutsikt, og frokosten serveres med fokus på kvalitet og lokale råvarer. Enten du kommer for stillheten, naturen eller nordlyset, tilbyr Nordlysbrygga Bed & Breakfast et personlig og avslappende opphold hvor tempoet senkes og kystlivet kan nytes fullt ut.",
-      "features": [
-        "BREAKFAST",
-        "FREE WIFI",
-        "PET FRIENDLY"
-      ],
+      "features": ["BREAKFAST", "FREE WIFI", "PET FRIENDLY"],
       "maxGuests": 2,
       "reviews": [
         {
@@ -301,11 +297,7 @@
       "rating": 3.8,
       "imageSlug": "ronsheim",
       "description": "Rønsheim Gårdstun Bed & Breakfast er et sjarmerende og intimt overnattingssted bestående av et lite, tradisjonelt tømmergårdstun omgitt av rolige og naturskjønne omgivelser. Her bor du i lune rom med synlige tømmervegger, varme tekstiler og komfortable senger som skaper en ekte og hjemmekoselig atmosfære.\n\nTunet bærer preg av historie og solid håndverk, med detaljer som ivaretar det autentiske uttrykket samtidig som moderne komfort er godt ivaretatt. Beliggenheten gir nærhet til stille turstier, åpne jorder og frisk landluft – et sted hvor tempoet naturlig senkes.\n\nFellesområdene legger til rette for rolige morgener og hyggelige samtaler, og frokosten serveres med fokus på kvalitet og gode, tradisjonsrike råvarer. Enten du reiser alene, som par eller med familie, tilbyr Rønsheim Gårdstun Bed & Breakfast et personlig og avslappende opphold i ekte norsk gårdsidyll.",
-      "features": [
-        "BREAKFAST",
-        "PET FRIENDLY",
-        "FREE WIFI"
-      ],
+      "features": ["BREAKFAST", "PET FRIENDLY", "FREE WIFI"],
       "maxGuests": 2,
       "reviews": [
         {
@@ -332,57 +324,6 @@
       "message": "Ønsker rolig rom med tidlig innsjekk",
       "created": "2025-12-30T12:15:00",
       "updated": "2025-12-30T12:15:00"
-    },
-    {
-      "userId": 1,
-      "userName": "Ola Nordmann",
-      "email": "ola@example.com",
-      "checkIn": "2026-01-10",
-      "checkOut": "2026-01-12",
-      "roomtype": "King Size Bed",
-      "roomId": 4,
-      "maxGuests": 2,
-      "pricePrNight": 800,
-      "serviceFee": 250,
-      "totalSum": "",
-      "status": "sent/pending",
-      "created": "2026-05-12T10:12:20.159Z",
-      "updated": "2026-05-12T10:12:20.159Z",
-      "id": 103
-    },
-    {
-      "userId": 1,
-      "userName": "Ola Nordmann",
-      "email": "ola@example.com",
-      "checkIn": "2026-01-10",
-      "checkOut": "2026-01-12",
-      "roomtype": "King Size Bed",
-      "roomId": 4,
-      "maxGuests": 2,
-      "pricePrNight": 800,
-      "serviceFee": 250,
-      "totalSum": "",
-      "status": "sent/pending",
-      "created": "2026-05-12T10:15:42.900Z",
-      "updated": "2026-05-12T10:15:42.900Z",
-      "id": 104
-    },
-    {
-      "userId": 1,
-      "userName": "Ola Nordmann",
-      "email": "ola@example.com",
-      "checkIn": "2026-01-10",
-      "checkOut": "2026-01-12",
-      "roomtype": "King Size Bed",
-      "roomId": 4,
-      "maxGuests": 2,
-      "pricePrNight": 800,
-      "serviceFee": 250,
-      "totalSum": "",
-      "status": "sent/pending",
-      "created": "2026-05-12T10:16:01.339Z",
-      "updated": "2026-05-12T10:16:01.339Z",
-      "id": 105
     }
   ],
   "favorites": [
