@@ -67,7 +67,10 @@
       "features": [
         "dobbeltseng",
         "eget bad",
-        "frokost inkludert"
+        "frokost inkludert",
+        "BREAKFAST",
+        "FREE WIFI",
+        "PET FRIENDLY"
       ],
       "maxGuests": 2,
       "reviews": [
@@ -270,6 +273,57 @@
       "message": "Ønsker rolig rom med tidlig innsjekk",
       "created": "2025-12-30T12:15:00",
       "updated": "2025-12-30T12:15:00"
+    },
+    {
+      "userId": 1,
+      "userName": "Ola Nordmann",
+      "email": "ola@example.com",
+      "checkIn": "2026-01-10",
+      "checkOut": "2026-01-12",
+      "roomtype": "King Size Bed",
+      "roomId": 4,
+      "maxGuests": 2,
+      "pricePrNight": 800,
+      "serviceFee": 250,
+      "totalSum": "",
+      "status": "sent/pending",
+      "created": "2026-05-12T10:12:20.159Z",
+      "updated": "2026-05-12T10:12:20.159Z",
+      "id": 103
+    },
+    {
+      "userId": 1,
+      "userName": "Ola Nordmann",
+      "email": "ola@example.com",
+      "checkIn": "2026-01-10",
+      "checkOut": "2026-01-12",
+      "roomtype": "King Size Bed",
+      "roomId": 4,
+      "maxGuests": 2,
+      "pricePrNight": 800,
+      "serviceFee": 250,
+      "totalSum": "",
+      "status": "sent/pending",
+      "created": "2026-05-12T10:15:42.900Z",
+      "updated": "2026-05-12T10:15:42.900Z",
+      "id": 104
+    },
+    {
+      "userId": 1,
+      "userName": "Ola Nordmann",
+      "email": "ola@example.com",
+      "checkIn": "2026-01-10",
+      "checkOut": "2026-01-12",
+      "roomtype": "King Size Bed",
+      "roomId": 4,
+      "maxGuests": 2,
+      "pricePrNight": 800,
+      "serviceFee": 250,
+      "totalSum": "",
+      "status": "sent/pending",
+      "created": "2026-05-12T10:16:01.339Z",
+      "updated": "2026-05-12T10:16:01.339Z",
+      "id": 105
     }
   ]
 }
