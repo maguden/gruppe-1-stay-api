@@ -4,7 +4,6 @@ import dotenv from "dotenv";
 import packageJson from "./package.json" with { type: "json" };
 
 dotenv.config({ quiet: true });
-const key = process.env.FRONTEND_API_KEY;
 
 console.log(`Crudops versjon ${packageJson.version}\n\n`);
 
