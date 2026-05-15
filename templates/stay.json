@@ -324,23 +324,6 @@
       "message": "Ønsker rolig rom med tidlig innsjekk",
       "created": "2025-12-30T12:15:00",
       "updated": "2025-12-30T12:15:00"
-    },
-    {
-      "userId": 1,
-      "userName": "Ola Nordmann",
-      "email": "ola@example.com",
-      "checkIn": "2026-01-10",
-      "checkOut": "2026-01-11",
-      "roomtype": "King Size Bed",
-      "roomId": 4,
-      "maxGuests": 2,
-      "pricePrNight": 800,
-      "serviceFee": 250,
-      "totalSum": "",
-      "status": "sent/pending",
-      "created": "2026-05-13T09:16:09.294Z",
-      "updated": "2026-05-13T09:16:09.294Z",
-      "id": 102
     }
   ],
   "favorites": []
